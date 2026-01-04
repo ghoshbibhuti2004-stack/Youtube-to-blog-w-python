@@ -1,4 +1,4 @@
-# Youtube-to-blog-w-python
+
 # YouTube to Medium Blog Converter
 
 ## Introduction
@@ -29,3 +29,8 @@ The **YouTube to Medium Blog Converter** is a Python script that automates the p
    ```bash
    python blogautomated.py
    ```
+## Donations
+
+If this project makes you happy by reducing your development time, you can make me happy by treating me to a cup of coffee, or become a [Sponsor of this project](https://github.com/sponsors/Alwin8) :)  
+
+
